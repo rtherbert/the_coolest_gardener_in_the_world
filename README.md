@@ -3,8 +3,9 @@
 Code and documentation for an automatic watering system, 
 
 ## Getting Started
-### Requirements
-* [Streaming library](http://arduiniana.org/libraries/streaming/)
 
-### Notes
+### Requirements:
+* [Streaming library](http://arduiniana.org/libraries/streaming/) - Arduino Library for printing
+
+### Notes:
 * See [here](https://www.arduino.cc/en/Guide/Libraries) for more information on installing Arduino Libraries
